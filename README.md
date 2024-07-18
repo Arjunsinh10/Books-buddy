@@ -31,7 +31,7 @@ Book's Buddy is a web application that provides a vast collection of books acros
 
 ### Installation
 
-1. Clone the repository : https://github.com/vidja-abhay/Book-sBuddy.git
+1. Clone the repository : https://github.com/Arjunsinh10/Book-sBuddy.git
 
 2. Navigate to the project directory : cd boos's buddy
 
